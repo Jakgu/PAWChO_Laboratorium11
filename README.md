@@ -41,6 +41,6 @@ docker run -d --name web3 --network lab11net --ip=172.23.0.4 -p 8083:80 --mount 
 
 ## Struktura folderów wraz z obecnymi w nich plikami (potwierdzenie zapisania logów)
 
-![Struktura folderów](screenshots/dir.jpg)
+![Struktura folderów](screenshots/dir.png)
 
 
